@@ -1,3 +1,3 @@
 #/bin/sh
 
-docker-compose up -d
+docker-compose -p nginx-proxy-with-lets-encrypt up -d
